@@ -1,4 +1,5 @@
 //kkkkk
+#include <Arduino.h>
 #include <SPI.h>
 #include <ArduinoWebsockets.h>
 #include <WiFi.h>
